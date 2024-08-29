@@ -1,0 +1,9 @@
+{
+    "name": "Aviator CLI",
+    "id": "av",
+    "version": "0.0.1",
+    "description": "Installs the Aviator CLI",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/github-cli:1"
+    ]
+}
